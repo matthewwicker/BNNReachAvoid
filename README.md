@@ -6,4 +6,7 @@ In this repository we present a minimal implimentation of our algorithm for cert
 of maximally certifiable policies (in the tabular representation case). These algorithms are heavily paralelized, but have been edited to run smoothly
 on a laptop. Training takes roughly 15 minutes, certification takes more than an hour, and synthesis takes more than 2 hours on a M1 Macbook Pro. 
 
+To run the code please use the included conda environment `environment.yml' as this includes the correct dependencies.
+
 If you have any questions regarding the paper's theory of the implimentation here please email: mwicker@turing.ac.uk
+
