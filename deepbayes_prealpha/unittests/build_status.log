@@ -1,0 +1,43 @@
+
+
+REGRESSION INFERENCE TEST RESULTS:
+======================================= 
+INFERENCE METHOD [93m	 [ VOGN ] 	 	 WORKING (Warning: High Test Loss) [0m 
+INFERENCE METHOD [92m	 [ BBB ] 	 	 PASSED [0m 
+INFERENCE METHOD [91m	 [ NA ] 	 	 FAILED (Error) [0m
+INFERENCE METHOD [92m	 [ SWAG ] 	 	 PASSED [0m 
+INFERENCE METHOD [93m	 [ HMC ] 	 	 WORKING (Warning: High Test Loss) [0m 
+INFERENCE METHOD [93m	 [ SGHMC ] 	 	 WORKING (Warning: High Test Loss) [0m 
+INFERENCE METHOD [92m	 [ SGLD ] 	 	 PASSED [0m 
+INFERENCE METHOD [93m	 [ CSGLD ] 	 	 WORKING (Warning: High Test Loss) [0m 
+INFERENCE METHOD [92m	 [ SGD ] 	 	 PASSED [0m 
+INFERENCE METHOD [93m	 [ ADAM ] 	 	 WORKING (Warning: High Test Loss) [0m 
+
+
+
+
+CLASSIFICATION INFERENCE TEST RESULTS:
+======================================= 
+INFERENCE METHOD [92m	 [ VOGN ] 	 	 PASSED [0m 
+INFERENCE METHOD [92m	 [ BBB ] 	 	 PASSED [0m 
+INFERENCE METHOD [92m	 [ NA ] 	 	 PASSED [0m 
+INFERENCE METHOD [92m	 [ SWAG ] 	 	 PASSED [0m 
+INFERENCE METHOD [92m	 [ HMC ] 	 	 PASSED [0m 
+INFERENCE METHOD [92m	 [ SGHMC ] 	 	 PASSED [0m 
+INFERENCE METHOD [92m	 [ SGLD ] 	 	 PASSED [0m 
+INFERENCE METHOD [92m	 [ CSGLD ] 	 	 PASSED [0m 
+INFERENCE METHOD [92m	 [ SGD ] 	 	 PASSED [0m 
+INFERENCE METHOD [93m	 [ ADAM ] 	 	 WORKING (Warning: Low Test Acc) [0m 
+
+
+
+
+BOUNDS UNIT TEST RESULTS:
+======================================= 
+BOUND METHOD [92m	 [ Sample-based, Model, Chernoff ] 	 	 PASSED [0m 
+BOUND METHOD [92m	 [ Sample-based, Decision, Chernoff ] 	 	 PASSED [0m 
+BOUND METHOD [92m	 [ Variational, Model, Chernoff ] 	 	 PASSED [0m 
+BOUND METHOD [92m	 [ Variational, Decision, Chernoff ] 	 	 PASSED [0m 
+BOUND METHOD [92m	 [ Variational, Model, Massart ] 	 	 PASSED [0m 
+
+
